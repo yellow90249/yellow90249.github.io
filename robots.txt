@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yellow90249.github.io/sitemap.xml
