@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://findgary.dev/sitemap.xml
+Sitemap: https://garysblog.dev/sitemap.xml
