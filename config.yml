@@ -1,4 +1,4 @@
-baseURL: 'https://garysblog.dev/' # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: 'https://garysblog.dev/'
 title: PaperMod
 paginate: 5
 theme: hugo-PaperMod
@@ -66,7 +66,7 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
+    title: Gary's Blog
     imageUrl: '#'
     imageTitle: my image
     # imageWidth: 120
@@ -78,23 +78,16 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: 'PaperMod'
+    Title: 'GARYSBLOG'
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
-
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Do give a 🌟 on Github !
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-
-  socialIcons:
-    - name: github
-      url: 'https://github.com/adityatelange/hugo-PaperMod'
-    - name: KoFi
-      url: 'https://ko-fi.com/adityatelange'
-    - name: RsS
-      url: 'index.xml'
+      嗨, 我是 Gary, 這是我寫文章的地方
+  # socialIcons:
+  #   - name: github
+  #     url: 'https://github.com/yellow90249'
+  #   - name: KoFi
+  #     url: 'https://ko-fi.com/adityatelange'
+  #   - name: RsS
+  #     url: 'index.xml'
 
   editPost:
     URL: 'https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content'
